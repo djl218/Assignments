@@ -94,11 +94,10 @@ Here is a brief summary of the `parse()` algorithm:
 
 * Admittedly, these tests were done rather manually.  I have experience performing tests in a [web development context](https://github.com/djl218/notesApp-backend/blob/master/tests/note_api.test.js), but not so much for algorithm testing.
 
-
-<h3>Time Complexity</h3>
+\<h3>Time Complexity</h3>
 Assume that `n` is the length of the JSON String array that is being passed as input.  It will take O(n) time to iterate over the length of the JSON String array.  There will never be more than one ID stored in the value list for `nameMap` or `addressMap` because it is deleted afer every time the IDs are added to `invalidRecords`.  The time for this does not need to be taken into consideration.  The overall time complexity is O(n).   
 
-<h3>Space Complexity</h3>
+\<h3>Space Complexity</h3>
 Assume that `n` is the length of the JSON String array that is being passed as input.  O(n) space will be required for `invalidRecords`, O(n) space will be required for `nameMap`, and O(n) space will be required for `addressMap`.  This will sum to O(3n) which is asymptotically equivalent to O(n).
 
 [<h3>Click here to see output from this algorithm</h3>](https://github.com/djl218/Assignments/blob/main/Company%20S/output.txt)
