@@ -16,11 +16,13 @@ Technically it is not an achievement until I reach my goal, but as you can imagi
 
 <h2>2. What's a personal project you're currently working on? This could be a coding side project, hobby, or otherwise real world project you're working on.</h2>
 
-To be perfectly honest, I don't really have a personal project that I am currently working on.  I spend just about every hour of the day, learning and studying to become a software engineer.  I do sleep of course.  Sleep is important.
+A project of mine that I have been working on since the last year is [my blog](https://www.danielleskosky.com/).  I am also on [Medium](https://daniel-leskosky.medium.com/) and [DEV](https://dev.to/danielleskosky).  Blogging is hard work!
 
-I do have quite a few ideas for projects that I would like to take on when I reach my goal though.  I haven't really decided which language I will use yet, though.  I like Java and JavaScript both.
+I don't want to sound too bookish, but solving algorithm problems has really grown into a hobby of mine.  Check out my [LeetCode repo](https://github.com/djl218/LeetCode) where I show off algorithm solutions that I am extra proud of.
 
-I do have quite a few hobbies though, but I have taken a bit of a break from them.  Will definitely be glad to pick up these hobbies again when I get a software engineering role.
+I do have quite a few ideas for projects that I would like to take on when I reach my goal.  I haven't really decided which language I will use yet, though.  I like Java and JavaScript both.
+
+I have quite a few hobbies as well, but I have taken a bit of a break from them.  I will definitely be glad to start up these hobbies again when I get a software engineering role.
 
 Some of these hobbies include:
 - Rock climbing (only gym yet)
