@@ -23,9 +23,9 @@ I do have quite a few ideas for projects that I would like to take on when I rea
 I do have quite a few hobbies though, but I have taken a bit of a break from them.  Will definitely be glad to pick up these hobbies again when I get a software engineering role.
 
 Some of these hobbies include:
-    - Rock climbing (only gym yet)
-    - Backpacking
-    - Yoga
+- Rock climbing (only gym yet)
+- Backpacking
+- Yoga
 
 You could see me having fun with these hobbies of mine on [Instagram](https://www.instagram.com/danielleskosky/).
 
