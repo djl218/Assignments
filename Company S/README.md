@@ -45,6 +45,26 @@ Such a great idea, in my opinion!
 
 I have been spending a lot of time LeetCode lately and I am very impressed with the quality of that web site.  So many problems, and so much information buried in the discussion boards.  The contests are really fun too!
 
+<h2>Question 5</h2>
+
+In this repo is a `data.json` file.  It contains an imaginary example set of data a customer might need to migrate from one system to another. It's a JSON encoded array of objects. The customer understands some of the data might be bad and wants to know which records are invalid so they can ensure the new system will only have valid data. Write a program that will read in the data and mark any records:
+    i. That are a duplicate of another record
+    ii. `name` field is null, missing, or blank
+    iii. `address` field is null, missing, or blank
+    iv. `zip` is null, missing, or an invalid U.S. zipcode
+
+    Each record has an ID but that should only be used to identify a record, not for validity or duplication testing (eg, two records may be identical but have different IDs).
+
+The output of the program should list the IDs of each invalid or duplicate record, one per line. In the case of duplicates, mark both.
+
+Example:
+```
+123ba
+439a2
+99abc
+bac34
+```
+
 <h2>General Notes about Question 5</h2>
 
 This description corresponds to the JavaScript written in the [customerDataParse.js](https://github.com/djl218/Assignments/blob/main/Company%20S/customerDataParse.js) file.
