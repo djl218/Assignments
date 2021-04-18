@@ -14,7 +14,7 @@ Technically it is not an achievement until I reach my goal, but as you can imagi
 
 <h2>2. What's a personal project you're currently working on? This could be a coding side project, hobby, or otherwise real world project you're working on.</h2>
 
-A project of mine that I have been working on since the last year is [my blog](https://www.danielleskosky.com/).  I am also on [Medium](https://daniel-leskosky.medium.com/) and [DEV](https://dev.to/danielleskosky).  Blogging is hard work!
+A project of mine that I have been working on since last year is [my blog](https://www.danielleskosky.com/).  I am also on [Medium](https://daniel-leskosky.medium.com/) and [DEV](https://dev.to/danielleskosky).  Blogging is hard work!
 
 I don't want to sound too bookish, but solving algorithm problems has really grown into a hobby of mine.  Check out my [LeetCode repo](https://github.com/djl218/LeetCode) where I show off algorithm solutions that I am extra proud of.
 
