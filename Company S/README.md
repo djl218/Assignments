@@ -14,7 +14,7 @@ I was able to map out a plan of action and put together a timeline, so that I co
 
 Technically it is not an achievement until I reach my goal, but as you can imagine, I am pretty darn proud, nonetheless!
 
-<h2>2. What's a personal project you're currently working on? This could be a coding side project, hobby, or otherwise real world project you're working on.<h2>
+<h2>2. What's a personal project you're currently working on? This could be a coding side project, hobby, or otherwise real world project you're working on.</h2>
 
 To be perfectly honest, I don't really have a personal project that I am currently working on.  I spend just about every hour of the day, learning and studying to become a software engineer.  I do sleep of course.  Sleep is important.
 
@@ -90,7 +90,7 @@ Here is a brief summary of the `parse()` algorithm:
     - Null, missing, or blank `name`
     - Null, missing, or blank `address`
     - Null, missing, blank, or invalid `zip`
-    - [See JSON test data]()
+    - [See JSON test data](https://github.com/djl218/Assignments/tree/main/Company%20S/TestData)
 
 * Admittedly, these tests were done rather manually.  I have experience performing tests in a [web development context](https://github.com/djl218/notesApp-backend/blob/master/tests/note_api.test.js), but not so much for algorithm testing.
 
@@ -101,4 +101,4 @@ Assume that `n` is the length of the JSON String array that is being passed as i
 <h3>Space Complexity</h3>
 Assume that `n` is the length of the JSON String array that is being passed as input.  O(n) space will be required for `invalidRecords`, O(n) space will be required for `nameMap`, and O(n) space will be required for `addressMap`.  This will sum to O(3n) which is asymptotically equivalent to O(n).
 
-[<h3>Click here to see output from this algorithm</h3>](https://www.google.com/search?q=whether&oq=whether&aqs=chrome..69i57.1840j0j7&sourceid=chrome&ie=UTF-8)
+[<h3>Click here to see output from this algorithm</h3>](https://github.com/djl218/Assignments/blob/main/Company%20S/output.txt)
