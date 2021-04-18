@@ -35,7 +35,7 @@ A book that I am currently reading is [Designing Data-Intensive Applications](ht
 
 What I like about "Designing Data-Intensive Applications" is that it goes over the history of databases and scalable systems.  It really gets into the nuts and bolts of how they work too.  The last section I read was about B-Trees and LSM-Trees.  Topics like that are definitely beyond the scope of the Grokking course, but are still certainly very interesting to learn about!
 
-Although I haven't been reading as much as I would like, over this past year, I still do enjoy it very much.  Here is a [blog post](https://www.danielleskosky.com/the-best-programming-books/) I wrote that shows all of the programming books that I have come to own.  Please note that this post was written a year ago and my thoughts on some of these books may have changed.
+Although I haven't been reading books as much as I would like, over this past year, I still do enjoy it very much.  Here is a [blog post](https://www.danielleskosky.com/the-best-programming-books/) I wrote that shows all of the programming books that I have come to own.  Please note that this post was written a year ago and my thoughts on some of these books may have changed.
 
 <h2>4. Tell us about one of your favorite products (physical or software) and one specific aspect that makes it truly great.</h2>
 
