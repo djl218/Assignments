@@ -65,7 +65,7 @@ Example:
 bac34
 ```
 
-<h2>General Notes about Question 5</h2>
+<h2>Explanation Question 5</h2>
 
 This description corresponds to the JavaScript written in the [customerDataParse.js](https://github.com/djl218/Assignments/blob/main/Company%20S/customerDataParse.js) file.
 
