@@ -118,7 +118,7 @@ Here is a brief summary of the `parse()` algorithm:
 
 <h3>Time Complexity</h3>
 
-Assume that `n` is the length of the JSON String array that is being passed as input.  It will take O(n) time to iterate over the length of the JSON String array.  There will never be more than one ID stored in any of the value lists for `nameMap` or `addressMap` because it is deleted after every time the IDs are added to `invalidRecords`.  The time for this does not need to be taken into consideration.  The overall time complexity is O(n).   
+Assume that `n` is the length of the JSON String array that is being passed as input.  It will take O(n) time to iterate over the length of the JSON String array.  There will never be more than one ID stored in any of the value lists for `nameMap` or `addressMap` because a list will be cleared after every time that IDs from that list are added to `invalidRecords`.  The time for this does not need to be taken into consideration.  The overall time complexity is O(n).   
 
 <h3>Space Complexity</h3>
 
