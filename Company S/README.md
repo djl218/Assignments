@@ -47,6 +47,8 @@ I have been spending a lot of time LeetCode lately and I am very impressed with 
 
 <h2>General Notes about Question 5</h2>
 
+This description corresponds to the JavaScript written in the [customerDataParse.js](https://github.com/djl218/Assignments/blob/main/Company%20S/customerDataParse.js) file.
+
 To access the file in Node, I used the native module `fs`.  The `fs` module allows for the option of synchronous or asynchronous versions for many functions.
 
 `fs.readFile` was used to load the data from the JSON file.  The JSON file was specified as `utf8`.
