@@ -39,7 +39,7 @@ Although I haven't been reading books as much as I would like, over this past ye
 
 <h2>4. Tell us about one of your favorite products (physical or software) and one specific aspect that makes it truly great.</h2>
 
-Without a doubt, one of my favorite products (both physical and software) is the [Tension Board](https://www.tensionclimbing.com/product/tension-board-sets/)!  You use an app to sync up to LED lights that are placed on a slanted wall with wooden holds.  You can then select different routes based on difficulty.  Depending on which route you choose, different LEDs will light up to indicate which holds you are allowed to use.  Users can rate climbs and make their own climbs that other users can then climb at any other Tension Board location.  
+Without a doubt, one of my favorite products (both physical and software) is the [Tension Board](https://www.tensionclimbing.com/product/tension-board-sets/)!  You use an app to sync up to LED lights that are placed on a slanted wall with wooden holds.  You can then select different routes based on difficulty.  Depending on which route you choose, different LEDs will light up to indicate which holds you are allowed to use.  Users can rate climbs and also make their own climbs that other users can then climb at any other Tension Board location.  
 
 Such an awesome idea!
 
