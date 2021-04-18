@@ -52,8 +52,7 @@ In this repo is a `data.json` file.  It contains an imaginary example set of dat
 2. `name` field is null, missing, or blank
 3. `address` field is null, missing, or blank
 4. `zip` is null, missing, or an invalid U.S. zipcode
-
-    
+  
 Each record has an ID but that should only be used to identify a record, not for validity or duplication testing (eg, two records may be identical but have different IDs).
 
 The output of the program should list the IDs of each invalid or duplicate record, one per line. In the case of duplicates, mark both.
