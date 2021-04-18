@@ -18,7 +18,7 @@ A project of mine that I have been working on since last year is [my blog](https
 
 I don't want to sound too bookish, but solving algorithm problems has really grown into a hobby of mine.  Check out my [LeetCode repo](https://github.com/djl218/LeetCode) where I show off algorithm solutions that I am extra proud of.
 
-I do have quite a few ideas for projects that I would like to take on when I reach my goal.  I haven't really decided which language I will use yet, though.  It would be either Java or JavaScript as I am most familiar with these two languages.
+I do have quite a few ideas for projects that I would like to take on when I reach my goal of becoming a software engineer.  I haven't really decided which language I will use yet, though.  It would be either Java or JavaScript as I am most familiar with these two languages.
 
 I have quite a few hobbies as well, but I have taken a bit of a break from them, so that I can completely focus getting a software engineering role.  I will definitely be glad to start up these hobbies again after I begin my new job.
 
