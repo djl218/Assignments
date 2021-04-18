@@ -43,7 +43,7 @@ Without a doubt, one of my favorite products (both physical and software) is the
 
 Such an awesome idea!
 
- Also, I have been spending a lot of time LeetCode lately and I am very impressed with the quality of that web site.  So many problems, such great solution articles, and so much information buried in the discussion boards.  The contests are really fun too!
+ Also, I have been spending a lot of time on LeetCode lately and I am very impressed with the quality of that web site.  So many problems, such great solution articles, and so much information buried in the discussion boards.  The contests are really fun too!
 
 <h2>Question 5</h2>
 
