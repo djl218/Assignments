@@ -106,6 +106,8 @@ Here is a brief summary of the `parse()` algorithm:
 
 * The IDs for all invalid or duplicate records were then printed.  **9595 IDs were found.**
 
+[<h3>Click here to see the output for this algorithm</h3>](https://github.com/djl218/Assignments/blob/main/Company%20S/output.txt)
+
 * The code was then tested to ensure that it met all of the specifications stated in the instructions.  Here is what was tested:
     - Duplicate `name`
     - Duplicate `address`
@@ -123,5 +125,3 @@ Assume that `n` is the length of the JSON String array that is being passed as i
 <h3>Space Complexity</h3>
 
 Assume that `n` is the length of the JSON String array that is being passed as input.  O(n) space will be required for `invalidRecords`, O(n) space will be required for `nameMap`, and O(n) space will be required for `addressMap`.  This will sum to O(3n) which is asymptotically equivalent to O(n).
-
-[<h3>Click here to see the output for this algorithm</h3>](https://github.com/djl218/Assignments/blob/main/Company%20S/output.txt)
