@@ -100,9 +100,9 @@ Here is a brief summary of the `parse()` algorithm:
 
 * If `currZip` is missing, null, blank, or a length other than 5, `currId` is added to `invalidRecords`.
 
-* If `currZip` is of length 5 and every character is a digit between 0 and 9, then this is considered a valid zip code.  Otherwise `currId` is added to `invalidRecords`.
+* If `currZip` is of length 5 and every character is a digit between 0 and 9, then this is considered a valid zipcode.  Otherwise `currId` is added to `invalidRecords`.
 
-* It should be mentioned that ZIP+4 format was not taken into consideration, nor was it considered whether a valid 5 digit `currZip` was actually a real US zip code.  Future improvement of this algorithm could be to compare every `currZip` value to a hash set containing all valid US zip codes.
+* It should be mentioned that ZIP+4 format was not taken into consideration, nor was it considered whether a valid 5 digit `currZip` was actually a real US zipcode.  Future improvement of this algorithm could be to compare every `currZip` value to a hash set containing all valid US zipcodes.
 
 * The IDs for all invalid or duplicate records were then printed.  **9595 IDs were found.**
 
@@ -118,7 +118,7 @@ Here is a brief summary of the `parse()` algorithm:
 
 <h3>Time Complexity</h3>
 
-Assume that `n` is the length of the JSON String array that is being passed as input.  It will take O(n) time to iterate over the length of the JSON String array.  There will never be more than one ID stored in the value list for `nameMap` or `addressMap` because it is deleted after every time the IDs are added to `invalidRecords`.  The time for this does not need to be taken into consideration.  The overall time complexity is O(n).   
+Assume that `n` is the length of the JSON String array that is being passed as input.  It will take O(n) time to iterate over the length of the JSON String array.  There will never be more than one ID stored in any of the value lists for `nameMap` or `addressMap` because it is deleted after every time the IDs are added to `invalidRecords`.  The time for this does not need to be taken into consideration.  The overall time complexity is O(n).   
 
 <h3>Space Complexity</h3>
 
