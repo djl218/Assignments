@@ -20,7 +20,7 @@ I don't want to sound too bookish, but solving algorithm problems has really gro
 
 I do have quite a few ideas for projects that I would like to take on when I reach my goal of becoming a software engineer.  Although, I haven't really decided which language I will use yet.  It would be either Java or JavaScript as I am most familiar with these two languages.
 
-I have quite a few hobbies as well, but I have taken a bit of a break from them, so that I can completely focus getting a software engineering role.  I will definitely be glad to start up these hobbies again after I begin my new job.
+I have quite a few hobbies as well, but I have taken a bit of a break from them, so that I can completely focus on getting a job as a software engineer.  I will definitely be glad to start up these hobbies again after I begin my new job.
 
 Some of these hobbies include:
 - Rock climbing (just gym yet, hopefully outdoors soon)
