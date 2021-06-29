@@ -3,13 +3,10 @@
 <h2>Overview</h2>
 
 For this assignment I was given two REST endpoints to create:
-
 * Create a new trainer
-
 * Get details for a trainer
 
 In addition to these specifications, I also created the functionality to:
-
 * Get all trainers
 * Delete a specific trainer
 
