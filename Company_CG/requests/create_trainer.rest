@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/trainers
+Content-Type: application/json
+
+{
+    "email": "trainer4@cg.com",
+    "phone": "555555555",
+    "firstName": "New",
+    "lastName": "Trainer"
+}
