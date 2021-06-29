@@ -40,11 +40,19 @@ To do this I created a backend with Node.js and utilized the Express library.
 
 * Now let's try to get a specific trainer.  Open the `get_trainers2.rest` file.  And click the `Send Request` text.  You should get a similar result as the image below.
 
+![get_trainer2](https://github.com/djl218/Assignments/blob/main/Company_CG/images/get_trainer2.png)
+
 * Now let's delete a trainer's records.  Open the `delete_trainer2.rest` file and click the `Send Request` text.  You should get a similar result as the image below with a 204 status being returned.
+
+![delete_trainer2](https://github.com/djl218/Assignments/blob/main/Company_CG/images/delete_trainer2.png)
 
 * We can create a new trainer too.  Open the `create_trainer.rest` file and click the `Send Request` text.  Your result should look like the image below.
 
+![create_trainer](https://github.com/djl218/Assignments/blob/main/Company_CG/images/create_trainer.png)
+
 * Now run `get_all_trainers.rest` again.  Your result should look like the image below.
+
+![new_get_all_trainers](https://github.com/djl218/Assignments/blob/main/Company_CG/images/new_get_all_trainers.png)
 
 <h2>Considerations of Backend</h2>
 
