@@ -38,11 +38,11 @@ To do this I created a backend with Node.js and utilized the Express library.
 
 ![get_all_trainers](https://github.com/djl218/Assignments/blob/main/Company_CG/images/get_all_trainers.png)
 
-* Now let's try to get a specific trainer.  Open the `get_trainers2.rest` file.  And click the `Send Request` text.  You should get a similar result as the image below.
+* Now let's try to get a specific trainer.  Open the `get_trainer2.rest` file.  And click the `Send Request` text.  You should get a similar result as the image below.
 
 ![get_trainer2](https://github.com/djl218/Assignments/blob/main/Company_CG/images/get_trainer2.png)
 
-* Now let's delete a trainer's records.  Open the `delete_trainer2.rest` file and click the `Send Request` text.  You should get a similar result as the image below with a 204 status being returned.
+* Now let's delete a trainer's records.  Open the `delete_trainer.rest` file and click the `Send Request` text.  You should get a similar result as the image below with a 204 status being returned.
 
 ![delete_trainer2](https://github.com/djl218/Assignments/blob/main/Company_CG/images/delete_trainer2.png)
 
