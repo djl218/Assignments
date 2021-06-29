@@ -70,8 +70,8 @@ I just want to briefly touch on some qualities that this backend takes into cons
 
 Although this backend handles requests fairly well, there is still room for improvement:
 
-* First, it should be made sure that an email that is submitted for a new trainer is in an appropriate format.  It should contain `@` and should be followed by something like `website.com`.
+* When an email address is submitted for a new trainer, it should be in an appropriate format.  The email address should contain `@` and should end with something like `website.com`.
 
-* An email should only be used once.  A trainer should not be able to create another account if their email is already stored (assuming that there is a database).
+* An email address should only be used once.  A trainer should not be able to create another account if their email address is already stored (assuming that there is a database to store it).
 
 * Also there should be some considerations for phone numbers.  Should they be in a specific format?  Should they be a specific length?
