@@ -65,3 +65,13 @@ I just want to briefly touch on some qualities that this backend takes into cons
 * Also for every new trainer that is created, a unique ID will be assigned to that trainer.  This ID value will be one value greater than the current maximum trainer ID that is stored on the backend.
 
 * A time of creation value is also added for every new trainer that is created.
+
+<h2>Future Considerations</h2>
+
+Although this backend handles requests fairly well, there is still room for improvement:
+
+* First, it should be made sure that an email that is submitted for a new trainer is in an appropriate format.  It should contain `@` and should be followed by something like `website.com`.
+
+* An email should only be used once.  A trainer should not be able to create another account if their email is already stored (assuming that there is a database).
+
+* Also there should be some considerations for phone numbers.  Should they be in a specific format?  Should they be a specific length?
